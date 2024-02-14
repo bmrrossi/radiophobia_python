@@ -17,3 +17,11 @@ Please refer to each project's style and contribution guidelines for submitting 
 5. Submit a Pull request and we will review your changes
 
 ### Before start
+
+```
+python3 -m venv .venv
+
+source .venv/bin/activate
+
+python3 -m pip install -f requirements.txt
+```
